@@ -1,2 +1,25 @@
+#n1>ul{
+	background-color:pink;
+justify-content:space-around;
+display:flex;
+}
+#n1>ul>li>a{
+	text-decoration:none;
+color:black;
+}
+h1{
+	text-align:center;
+}
+.sej{
+margin-bottom:10px;
+	
+}
 
-/* Your CSS Code here. */
+img{
+
+margin:auto;
+display:flex;
+
+max-width:400px;
+	width:100%;
+}
